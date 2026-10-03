@@ -42,13 +42,13 @@
         {
           "type": "resource",
           "id": "canopus_manager"
-        }
-      ],
-      "recommend": [
+        },
         {
           "type": "resource",
           "id": "ng.lst.corona"
-        },
+        }
+      ],
+      "recommend": [
         {
           "type": "resource",
           "id": "canopus_corona"
