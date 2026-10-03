@@ -1,0 +1,36 @@
+{
+  "item": {
+    "id": "recircle",
+    "restype": "res_pack",
+    "name": "重圆",
+    "description": "方方圆圆的圆角矩形分层图标，让你看了赏心悦目。",
+    "preview": [
+      "media/画板 62.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/xuanfaTu.png",
+    "author": [
+      {
+        "name": "bandbbs_83349",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "小米主题版本",
+      "url": "https://zhuti.xiaomi.com/detail/share/0b86fedc-4c8e-43a1-a13f-2c028ef677a2?miref=share&packId=98ba96a4-1bfb-415e-8902-fe4773799674",
+      "icon": "broom"
+    }
+  ],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/recircle.crpack",
+      "versionCode": 1
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
