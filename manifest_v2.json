@@ -34,17 +34,35 @@
     "xmb10p": {
       "version": "1.1.0",
       "file_name": "downloads/recircle.crpack",
-      "versionCode": 3
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.新增各项通知图标适配\n2.新增门禁卡卡面重绘"
+        }
+      ]
     },
     "xmb11": {
       "version": "1.1.0",
       "file_name": "downloads/recircle-xmb11.crpack",
-      "versionCode": 3
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.新增各项通知图标适配\n2.新增门禁卡卡面重绘"
+        }
+      ]
     },
     "xmb11nfc": {
       "version": "1.1.0",
       "file_name": "downloads/recircle-xmb11.crpack",
-      "versionCode": 3
+      "versionCode": 3,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1.新增各项通知图标适配\n2.新增门禁卡卡面重绘"
+        }
+      ]
     }
   },
   "ext": {
