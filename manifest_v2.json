@@ -5,7 +5,9 @@
     "name": "重圆",
     "description": "方方圆圆的圆角矩形分层图标，让你看了赏心悦目。\n重圆资源包回归啦！！！\n此次定价包含后期的长期维护，定价偏贵，感谢理解！\n欢迎加入果冻手环交流群：895849620",
     "preview": [
-      "media/画板 62.png"
+      "media/xuanfat1.png",
+      "media/xuanfat2.png",
+      "media/xuanfat3.png"
     ],
     "icon": "media/icon.png",
     "cover": "media/xuanfaTu.png",
@@ -30,19 +32,19 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "1.0.0",
+      "version": "1.1.0",
       "file_name": "downloads/recircle.crpack",
-      "versionCode": 2
+      "versionCode": 3
     },
     "xmb11": {
-      "version": "1.0.0",
+      "version": "1.1.0",
       "file_name": "downloads/recircle-xmb11.crpack",
-      "versionCode": 2
+      "versionCode": 3
     },
     "xmb11nfc": {
-      "version": "1.0.0",
+      "version": "1.1.0",
       "file_name": "downloads/recircle-xmb11.crpack",
-      "versionCode": 2
+      "versionCode": 3
     }
   },
   "ext": {
