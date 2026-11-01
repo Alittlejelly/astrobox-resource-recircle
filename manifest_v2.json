@@ -85,10 +85,6 @@
         {
           "type": "resource",
           "id": "canopus_manager"
-        },
-        {
-          "type": "resource",
-          "id": "ng.lst.corona"
         }
       ],
       "recommended": [
